@@ -26,3 +26,5 @@ python reverse_shoot.py
 7. The script will start performing reverse IP lookup on each URL in parallel using the specified number of threads.
 
 8. The extracted domains will be saved to a file named `rdms.txt` in the same directory.
+
+## Do no misuse script. For educational purposes only
